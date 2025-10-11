@@ -6,7 +6,7 @@ Allow: /
 Sitemap: https://https://analysis449.github.io/Gulf-Analysis//sitemap.xml
 
 # Allow search engines to crawl all content
-Disallow:
+Allow:
 
 # Allow social media bots
 User-agent: Twitterbot
