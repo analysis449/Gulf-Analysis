@@ -1,0 +1,19 @@
+# robots.txt for Gulf Analysis
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://https://analysis449.github.io/Gulf-Analysis//sitemap.xml
+
+# Allow search engines to crawl all content
+Disallow:
+
+# Allow social media bots
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: FacebookExternalHit
+Allow: /
